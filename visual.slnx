@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Dectionary/Dectionary/Dectionary.csproj" />
+  <Project Path="visual/visual.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>
